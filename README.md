@@ -1,5 +1,4 @@
 # EEG-signals-Comparison-between-dynamic-and-static-visual-stimuli
-# EEG-signals-Comparison-between-dynamic-and-static-visual-stimuli
 ## Introduction
 
 Emotional processing in the human brain can vary significantly depending on the type of stimulus, especially when comparing **static images** and **dynamic video content**. Understanding these differences is essential for advancing affective computing and for developing EEG-based emotion-decoding systems that remain robust across different perceptual contexts.
